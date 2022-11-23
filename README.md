@@ -1,3 +1,3 @@
 "# TrabalhoIntegrador" 
-A pasta 'src' é onde está o programa
-A pasta 'java' é onde estão os protótipos de telas
+A pasta 'TrabIntegrador' é onde está a versão inicial do programa;
+A pasta 'TelasInterdisciplinar' é onde estão os protótipos de telas
