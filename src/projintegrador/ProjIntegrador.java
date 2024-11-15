@@ -196,7 +196,7 @@ public class ProjIntegrador {
     private static void cadastraCliente(){
         Scanner entrada = new Scanner(System.in);
         
-        
+        //entrada de dados
         System.out.println("Cadastrando um novo cliente.\nInforme o nome:");
         String nome = entrada.nextLine();
 
