@@ -1,5 +1,5 @@
 package modelo;
-
+//classe vendedor
 public class Vendedor {
     
     private String nome;

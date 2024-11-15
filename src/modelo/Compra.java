@@ -2,7 +2,7 @@ package modelo;
 
 import java.util.Date;
 import java.util.Vector;
-
+//classe compra
 public class Compra {
 
     //atributos

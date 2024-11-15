@@ -1,5 +1,6 @@
 package modelo;
 
+//classe produto
 public class Produto {
     //atributos
     private double preco;
@@ -7,7 +8,7 @@ public class Produto {
     private String nome;
     private String modalidade;
     private String sexo;
-    //FOTOS*
+ 
     
     
     //construtores
